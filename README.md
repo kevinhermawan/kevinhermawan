@@ -8,7 +8,7 @@ I'm Kevin Hermawan, and below are some of the projects I've passionately crafted
 
 ### macOS
 
-- [Ollamac](https://github.com/kevinhermawan/Ollamac) - An open-source, native macOS app to interact with Ollama models.
+- [Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models.
 
 ### Web
 
