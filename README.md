@@ -8,7 +8,8 @@ I'm Kevin Hermawan, and below are some of the projects I've passionately crafted
 
 ### macOS
 
-- [Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models.
+- [Canvas](https://github.com/kevinhermawan/Canvas) - A DALL·E playground for the Mac
+- [Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
 
 ### Web
 
