@@ -1,22 +1,16 @@
-## Hi, there! 👋🏼
+## Hey there!
 
-I'm Kevin Hermawan, and below are some of the projects I've passionately crafted:
+I'm Kevin, a passionate developer specializing in creating open-source AI apps such as [Ollamac](https://github.com/kevinhermawan/Ollamac) and [Canvas](https://github.com/kevinhermawan/Canvas). My focus lies in bridging the gap between Swift and advanced AI technologies, particularly [Retrieval-Augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation).
 
-### iOS
+## Mission
 
-- [Readle for iOS](https://apps.apple.com/us/app/readle-reading-exercises/id6467619365) - Daily English Reading Exercises
+My mission is to adapt complex AI frameworks like [LangChain](https://www.langchain.com) and [LlamaIndex](https://www.llamaindex.ai) for the Swift ecosystem. This effort will enhance accessibility for Swift developers and optimize these frameworks for Apple platforms. Through the development of intuitive RAG libraries, clear documentation, and practical example projects, the ultimate goal is to empower Swift developers to seamlessly integrate advanced AI capabilities into iOS, macOS, and other Apple platforms.
 
-### macOS
+## Support
 
-- [Canvas](https://github.com/kevinhermawan/Canvas) - DALL·E playground for the Mac
-- [Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
+If you find my projects useful, consider supporting my work through:
 
-### Web
+- [GitHub Sponsors](https://github.com/sponsors/kevinhermawan)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/kevinhermawan)
 
-- [listene.day](https://www.listene.day) - Daily English Listening Exercises
-- [readle.day](https://www.readle.day) - Daily English Reading Exercises
-- [yarapottery.com](https://www.yarapottery.com) - A Website for Yara Pottery Studio
-
-### Open Source Software (OSS)
-
-For my open-source contributions, you can check them out [here](https://github.com/kevinhermawan?tab=repositories).
+Your support is greatly appreciated and helps drive innovation in the Swift and AI ecosystem. Thank you! 💖
